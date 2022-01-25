@@ -1,10 +1,12 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Purpose of analysis
-### The purpose of this analysis is to find theater outcomes based on launch date and play outcomes based on goal 
+
+The purpose of this analysis is to find theater outcomes based on launch date and play outcomes based on goal 
 
 ## Analysis and Challenges
-### I performed my analysis by using Pivot Tables and Pivot Charts.This tools allowed me to organize and visualize data we needed to analyze. 
+
+I performed my analysis by using Pivot Tables and Pivot Charts.This tools allowed me to organize and visualize data we needed to analyze. 
 
 ## Overview 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
